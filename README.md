@@ -7,4 +7,4 @@ Mapbox files are augmented with Leaflet layers to incorporate three types of Geo
 * An additional layer tha can be turned on to explore the plates themselves and names with a pop up that appears on click in any plate space.
 
 An image sample of a portion of the mapped area is provided here:
-[Earthquake_Map](Earthquake_Map)
+![Earthquake_Map](Earthquake_Map.png)
