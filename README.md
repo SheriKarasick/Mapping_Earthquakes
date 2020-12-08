@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Using APIs to Map Current Oceanographic Events
 
 ## Summary
 Mapbox files are augmented with Leaflet layers to incorporate three types of GeoJSON data.  
